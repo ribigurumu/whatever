@@ -2,4 +2,4 @@
 
 lkdswwerwera;fkdasfjoweijfoijeofijsjl;kfjdla;kfjda;lkjfd;alkjfd;alkjf;adslk
 
-![Alt text](https://i.imgur.com/6hR7dII.gif)
+<img src="https://imgur.com/6hR7dII.gif" width="640" height="480">
